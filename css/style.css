@@ -1,0 +1,80 @@
+.menu{
+    list-style: none;
+    display: block;
+}
+.menu li{
+    display: inline;
+    margin: 15px;
+    position: relative;
+}
+.header{
+    background-color:#22577E;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top:2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+}
+.nav{
+    background-color:#a9bfd1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid #000000;
+}
+.section{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+}
+#kadın_saatleri{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    margin: 0 auto;   /*alt-üst (0) sağ-sol(auto) boşluk olacak*/
+}
+#erkek_saatleri{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    margin: 0 auto;   /*alt-üst (0) sağ-sol(auto) boşluk olacak*/
+}
+#hakkimizda{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    margin: 0 auto;   /*alt-üst (0) sağ-sol(auto) boşluk olacak*/
+}
+#iletisim{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    margin: 0 auto;   /*alt-üst (0) sağ-sol(auto) boşluk olacak*/
+}
+.footer{
+    background-color:#a9bfd1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 2px solid #000000;
+}
